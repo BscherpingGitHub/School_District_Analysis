@@ -43,14 +43,15 @@ Original scores by school spending: <br/>
 ![schoolspending](Resources/schoolspending.png)<br/>
 New scores by school spending: <br/>
 ![schoolspendingna](Resources/schoolspendingna.png)
--	Scores by school size
+
+- Scores by school size
   -	The scores went down for the school size with Thomas High School <br/>
   
 Original scores by school size: <br/>
 ![schoolsize](Resources/schoolsize.png)<br/>
 New scores by school size: <br/>
 ![schoolsizena](Resources/schoolsizena.png)<br/>
--	Scores by school type
+- Scores by school type
   -	The scores went down for the school type with Thomas High School <br/>
   
 Original scores by school type: <br/>
