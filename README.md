@@ -62,11 +62,11 @@ New scores by school type: <br/>
 
 # Summary
 There were small changes in the 4 criteria’s:
-1.	Scores by grade; went down about 
-2.	Scores by school spending
-3.	Scores by school size
-4.	Scores by school type <br/>
-Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data affected. We are only affecting around 450 of 39,000 students. This small number will not change the data a small amount which is why I had to change the format. The only big change was when we used include the na's for Thomas high school with the total students of Thomas high school.
+1.	Scores by grade; went down .2% for passing math and .1% for passing reading.
+2.	Scores by school spending; went down .1% for passing reading and .1% for overall percentage.
+3.	Scores by school size; the medium school size when down .1% for passing reading. 
+4.	Scores by school type; the school type charter when down .01% for passing math, .04% for passing reading, and .04% for overall percentage. <br/>
+Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data affected. We are only affecting around 450 of 39,000 students. This small number will only change the data a small amount which is why I had to change the format. The only big change was when we included the na students in the total students while including the na status on passing reading and math.
 
 Orgininal school summary: <br/>
 ![summaryorig](Resources/summaryorig.png)<br/>
