@@ -65,5 +65,10 @@ There were small changes in the 4 criteria’s:
 1.	Scores by grade
 2.	Scores by school spending
 3.	Scores by school size
-4.	Scores by school type
-Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data affected. We are only affecting around 450 of 39,000 students. This small number will not change the data to much which is why I had to change the format. 
+4.	Scores by school type <br/>
+Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data affected. We are only affecting around 450 of 39,000 students. This small number will not change the data a small amount which is why I had to change the format. The only big change was when we used include the na's for Thomas high school with the total students of Thomas high school.
+
+Orgininal school summary: <br/>
+![summaryorig](Resources/summaryorig.png)<br/>
+School summary with Na and Na students included: <br/>
+![summarywithna](Resources/summarywithna.png)<br/>
