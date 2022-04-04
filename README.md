@@ -66,7 +66,7 @@ There were small changes in the 4 criteria’s:
 2.	Scores by school spending: spending went down .1% for passing reading and .1% for overall percentage.
 3.	Scores by school size: the medium school size went down .1% for passing reading. 
 4.	Scores by school type: the school type charter went down .01% for passing math, .04% for passing reading, and .04% for overall percentage. <br/>
-Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data impacted. We are only impacting around 450 of 39,000 students. This small number will only change the data a small amount which is why I had to change the format. The only big change was when we included the NaN students in the total students while including the NaN status on passing reading and math.
+Each of these changes were very small. I had to format the code for extra decimal places to find differences. The reason for small changes is due to the amount of data being impacted. We are only impacting around 450 of 39,000 students. This small number will only change the data a small amount which is why I had to change the format. The only big change was when we included the NaN students in the total students while including the NaN status on passing reading and math.
 
 Orgininal school summary: <br/>
 ![summaryorig](Resources/summaryorig.png)<br/>
