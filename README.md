@@ -26,6 +26,7 @@ New top 5: <br/>
 How does replacing the ninth-grade scores affect the following:
 - Math and Reading scores by grade
    - It only brought down the 9th grade average.<br/>
+   
 Original math scores by grade: <br/>
 ![mathgradeavg](Resources/mathgradeavg.png)<br/>
 New math scores by grade: <br/>
@@ -37,18 +38,21 @@ New reading scores by grade: <br/>
 
 - Scores by school spending
    -	The school spending with Thomas High School went down a small percentage <br/>
+   
 Original scores by school spending: <br/>
 ![schoolspending](Resources/schoolspending.png)<br/>
 New scores by school spending: <br/>
 ![schoolspendingna](Resources/schoolspendingna.png)
 -	Scores by school size
   -	The scores went down for the school size with Thomas High School <br/>
+  
 Original scores by school size: <br/>
 ![schoolsize](Resources/schoolsize.png)<br/>
 New scores by school size: <br/>
 ![schoolsizena](Resources/schoolsizena.png)<br/>
 -	Scores by school type
   -	The scores went down for the school type with Thomas High School <br/>
+  
 Original scores by school type: <br/>
 ![schooltype](Resources/schooltype.png)<br/>
 New scores by school type: <br/>
