@@ -7,7 +7,7 @@ How is the district summary affected?
 Original district summary: <br/>
 ![districtsummary](Resources/districtsummary.png)<br/>
 New district summary: <br/>
-![districtsummaryna](Resources/districtsummaryna.png)<br/>
+![newdistrictsummary](Resources/newdistrictsummary.png)<br/>
 
 How is the school summary affected?
 -	The school summary went down overall very small. <br/>
