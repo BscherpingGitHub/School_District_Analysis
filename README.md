@@ -25,7 +25,7 @@ New top 5: <br/>
 
 How does replacing the ninth-grade scores affect the following:
 -	Math and Reading scores by grade
--- It only brought down the 9th grade average.<br/>
+- It only brought down the 9th grade average.<br/>
 Original math scores by grade: <br/>
 ![mathgradeavg](Resources/mathgradeavg.png)<br/>
 New math scores by grade: <br/>
