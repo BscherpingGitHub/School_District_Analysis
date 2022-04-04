@@ -14,7 +14,7 @@ How is the school summary affected?
 Original school summary: <br/>
 ![summaryorig](Resources/summaryorig.png)<br/>
 New school summary: <br/>
-![summarytentwe](Resources/summarytenwe.png)
+![summarytentwe](Resources/summarytentwe.png)
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 -	Thomas High School stayed where it was. <br/>
 Original top 5: <br/>
