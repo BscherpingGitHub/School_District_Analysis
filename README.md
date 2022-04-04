@@ -62,7 +62,7 @@ New scores by school type: <br/>
 
 # Summary
 There were small changes in the 4 criteria’s:
-1.	Scores by grade
+1.	Scores by grade; went down about 
 2.	Scores by school spending
 3.	Scores by school size
 4.	Scores by school type <br/>
