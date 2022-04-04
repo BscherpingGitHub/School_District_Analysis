@@ -35,7 +35,7 @@ Original reading scores by grade: <br/>
 New reading scores by grade: <br/>
 ![readinggradeavgna](Resources/readinggradeavgna.png)
 
--	Scores by school spending
+1.	Scores by school spending
   -	The school spending with Thomas High School went down a small percentage <br/>
 Original scores by school spending: <br/>
 ![schoolspending](Resources/schoolspending.png)<br/>
