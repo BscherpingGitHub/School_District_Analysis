@@ -14,16 +14,18 @@ How is the school summary affected?
 Original school summary: <br/>
 ![summaryorig](Resources/summaryorig.png)<br/>
 New school summary: <br/>
-![summarytentwe](Resources/summarytentwe.png)
+![summarytentwe](Resources/summarytentwe.png)<br/>
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 -	Thomas High School stayed where it was. <br/>
 Original top 5: <br/>
 ![origtop5](Resources/origtop5.png)<br/>
 New top 5: <br/>
 ![newtop5](Resources/newtop5.png)<br/>
+
 How does replacing the ninth-grade scores affect the following:
 -	Math and Reading scores by grade
-o	It only brought down the 9th grade average.<br/>
+-- It only brought down the 9th grade average.<br/>
 Original math scores by grade: <br/>
 ![mathgradeavg](Resources/mathgradeavg.png)<br/>
 New math scores by grade: <br/>
